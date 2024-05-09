@@ -1,0 +1,1 @@
+ titles[strcspn(titles,"\n")]=0;
